@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='FindIntersection'/>
+        <page name='QuestionsMarks'/>
+        <page name='Fenix-Interview1'/>
+        <page name='LongestWord'/>
+        <page name='Problem 1'/>
+        <page name='Problem 2'/>
+        <page name='AddBinaryNumbers'/>
+        <page name='Fenix-interview3-ANasir'/>
+    </pages>
+</playground>
