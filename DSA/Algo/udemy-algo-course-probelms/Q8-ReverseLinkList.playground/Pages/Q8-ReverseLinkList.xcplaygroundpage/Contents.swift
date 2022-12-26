@@ -48,7 +48,7 @@ class LinkList<T> {
     }
     
     /**
-            Optimal solution - time: O(n), space: O(n)
+        Optimal solution - time: O(n), space: O(n)
      */
     func reverseOptimal() -> Node<T>? {
         var previous: Node<T>?
