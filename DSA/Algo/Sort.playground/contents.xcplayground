@@ -4,5 +4,6 @@
         <page name='Bubble Sort'/>
         <page name='Selection Sort'/>
         <page name='Insertion Sort'/>
+        <page name='Quick Sort'/>
     </pages>
 </playground>
